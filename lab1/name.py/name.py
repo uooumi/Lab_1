@@ -1,1 +1,1 @@
-My name is master 
+My name is {your_name} 
